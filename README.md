@@ -3,7 +3,7 @@
 ## Présentation  
 - 🌱 I’m currently learning new programming languages and technologies.
 - 💡 I'm passionate about software development and love to explore new ideas.
-- 🎯 My goal is to continuously improve my skills and contribute to open source projects.
+- 🎯 My goal is to continuously improve my skills and contribute to new projects.
 
 ## Formation
 - 2009 **ESIGELEC** Ingenieur Generalist
