@@ -1,0 +1,15 @@
+Méthode symétrique 
+
+Sous-réseau 1: Pôle Informatique
+Sous-réseau 2: Pôle Développement
+Sous-réseau 3: Pôle Administratif
+Sous-réseau 4: Pôle Techncien
+
+| **** | **Adresse réseau** | **Adresse de broadcast** | **Adresse de début de plage** | **Adresse de finde plage**|
+|--------------|--------------|--------------|--------------|--------------|
+| Pôle Informatique       | Data 1       | Data 2       |
+| Pôle Développement      | Data 3       | Data 4       |
+| Pôle Administratif     | Data 5       | Data 6       |
+| Pôle Techncien|--------------|--------------|
+
+Méthode Asymétrique
